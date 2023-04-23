@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 
+        Test 
+    -->
+    <style name="FelipePoppins3">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="CaliFelipe">
+        <item name="android:textSize">55sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/calligraffitti_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>
+  
+
+  
+
